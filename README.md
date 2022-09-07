@@ -24,3 +24,10 @@ docker tag php-mysqli-apache{DOCKER_USERNAME}php-mysqli-apache:1.0
 
 ---
 docker push {DOCKER_USERNAME}/php-mysqli-apache:1.0
+---
+
+### Verify your vrepository exists
+---
+https://hub.docker.com/r/{DOCKER_USERNAME}php-mysqli-apache
+---
+
